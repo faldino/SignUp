@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUp_UI</string>
+    <string name="forget_password_text">Forgotten your password? <font fgcolor='#2CD842'>Click here</font></string>
+    <string name="already_have_an_account_text">Already have an account? <font fgcolor='#2CD842'>Login</font></string>
+    <string name="referre_id_optional">Referre ID (Optional)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="welcome_to_fk_savings_app_let_s_get_you_started">Welcome to FK Savings App Let\'s get you started</string>
+    <string name="create_account">Create Account</string>
+
+</resources>
